@@ -14,7 +14,7 @@
     <link rel="shortcut icon" href="{{ asset('frontend/assets/images/favicon.ico') }}">
 
     <!-- Css -->
-    <link type="text/css" rel="stylesheet" href="{{ asset('frontend/assets/css/main.css') }}">
+    <link type="text/css" rel="stylesheet" href="{{ secure_asset('frontend/assets/css/main.css') }}">
 
 
 
